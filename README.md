@@ -99,9 +99,16 @@ The dataset contains sales transaction-level data with the following columns:
 
 ---
 
-## 📷 Dashboard Preview
+## 📂 Dataset
 
+📊 Download Dataset:  
+https://github.com/YOUR-USERNAME/Sales-Dashboard-PowerBI/blob/main/sales_dashboard_dataset.xlsx
 
-```markdown
-![Dashboard Overview](images/dashboard.png)
-![KPI View](images/kpi_section.png)
+## 📁 Power BI File
+
+📊 Download PBIX File:  
+https://github.com/YOUR-USERNAME/Sales-Dashboard-PowerBI/blob/main/Sales%20Performance%20%26%20Revenue%20Growth%20Dashboard.pbix
+
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.png)
